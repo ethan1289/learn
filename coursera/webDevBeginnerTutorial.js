@@ -1,4 +1,3 @@
-
 function validateFirstName() {
     var fName = document.getElementById("firstName").value;
     var rel = /^[A-A-Za-z\s\'\-]{2,15}$/;

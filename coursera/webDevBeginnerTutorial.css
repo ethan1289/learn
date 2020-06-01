@@ -1,0 +1,29 @@
+body  { 
+    background-color: rgba(255, 255, 255, 0.918);
+}
+
+h1 {
+    color: lightcoral;
+}
+
+
+
+p.regular {
+    color :rgb(255, 79, 79);
+}
+
+p.medium {
+    color : rgb(255, 118, 118);
+}
+
+#output {
+    color : rgb(255, 118, 118);
+    
+}
+
+.button {
+    margin: 0;
+    padding:10px 10px ;
+    background-color: aquamarine;
+    text-align: center;
+}
